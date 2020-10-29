@@ -6,7 +6,7 @@ Email: wangr317@outlook.com
 
 Phone: 204-951-7311
 
-## **Career Objective** : As a fourth year Computer Science major student of University of Manitoba, passion and be eager for new knowledge are prerequisite. Capable of working under high pressure and strength environment, contribute my passions and idea to the work.
+**Career Objective** : As a fourth year Computer Science major student of University of Manitoba, passion and be eager for new knowledge are prerequisite. Capable of working under high pressure and strength environment, contribute my passions and idea to the work.
 
 
 ## **SUMMARY OF SKILLS**
