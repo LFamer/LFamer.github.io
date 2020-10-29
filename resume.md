@@ -8,8 +8,6 @@ Phone: 204-951-7311
 
 **Career Objective** : As a fourth year Computer Science major student of University of Manitoba, passion and be eager for new knowledge are prerequisite. Capable of working under high pressure and strength environment, contribute my passions and idea to the work.
 
- ![](RackMultipart20201029-4-7ujzwb_html_b82036d71638fd31.gif)
-
 **SUMMARY OF SKILLS**
 
 **TECHNICAL SKILLS**
