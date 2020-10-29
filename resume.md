@@ -6,26 +6,26 @@ Email: wangr317@outlook.com
 
 Phone: 204-951-7311
 
-**Career Objective** : As a fourth year Computer Science major student of University of Manitoba, passion and be eager for new knowledge are prerequisite. Capable of working under high pressure and strength environment, contribute my passions and idea to the work.
+###**Career Objective** : As a fourth year Computer Science major student of University of Manitoba, passion and be eager for new knowledge are prerequisite. Capable of working under high pressure and strength environment, contribute my passions and idea to the work.
 
 
-**SUMMARY OF SKILLS**
+###**SUMMARY OF SKILLS**
 
-**TECHNICAL SKILLS**
+##**TECHNICAL SKILLS**
 
 - High Skill of using Java
 - Program with C, C++, Ruby, Android Studio and LC3
 - Strongly skill of using Word, Excel, Power Point and Photo Shop
 - Class 5I driver&#39;s License
 
-**Personality Traits**
+##**Personality Traits**
 
 - Tough and passionate
 - Positive and optimistic
 - Desire of knowledge and chances
 - Friendly and self-discipline
 
-**INTERPERSONAL SKILLS**
+##**INTERPERSONAL SKILLS**
 
 - Independent, but also glad make friends with everyone
 - Happy to share ideas and work with other people
@@ -33,7 +33,7 @@ Phone: 204-951-7311
 - Mandarin as the first language
 - English communication
 
-**Education**
+###**Education**
 
 **University of Manitoba – Winnipeg, MB, Canada**
 
