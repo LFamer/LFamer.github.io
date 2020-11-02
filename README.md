@@ -1,16 +1,16 @@
 # **How to Host and Format an Online Resume (and learn some fundamentals of Tech Comm along the way)**
 
-**Purpose**
+## **Purpose**
 
 This README will describe the instructions of host an excellent resume on GitHub Pages. During the processes, the Markdown, Jekyll and GitHub are needed, which are free. At the same time, this README will also relate the instructions of host a resume with the concept of Modern Technical Writing, which the author is Andrew Etter. This README wants to help you get the skill of hosting an excellent resume and learn knowledge about documentation.
 
-**Prerequisites**
+##**Prerequisites**
 
 This should include a resume formatted in Markdown. You also need a GitHub account for hosting your online resume.
 
-**Instructions**
+## **Instructions**
 
-**Building a Repository**
+### **Building a Repository**
 
 1. Login into your GitHub
 
@@ -26,7 +26,7 @@ Developers prefer DVCS much more than centralized systems because the distribute
 
 Wherever you decide to store your files, you need to build a README.md at the root branch (e.g. main) in your repository. This file&#39;s purposes are providing a quick summary of the product, describing instructions on how to run the projection, and instructions on how to contribute.
 
-**Setting up Jekyll Theme**
+### **Setting up Jekyll Theme**
 
 1. Click the &quot; **Settings**&quot; button which is on the top of the web page.
 
@@ -44,7 +44,7 @@ We choose to host a static website for the resume because it is simple, portabil
 
 In this case, we choose to use the default theme (Slate) because it is an example for showing instructions. However, it is not enough for a wonderful static website. If you want to create a successful online resume, you need to spend time choosing colors, typefaces, font sizes, page width, and spacing. You can hire a designer if you are not good at it.
 
-**Setting up your Resume**
+### **Setting up your Resume**
 
 1. Click the &quot; **main**&quot; button and choose the branch which name is &quot; **gh-page**&quot;.
 
@@ -64,7 +64,7 @@ The purpose of modern technical writing is that everyone is a contributor. Writi
 
 In this case, we choose to use Markdown to edit the resume because Markdown files can be covert to HTML easily. You do not need to spend time learning XML. If you want more information about Markdown, you can check under More Resources.
 
-**View the Resume Web Page**
+### **View the Resume Web Page**
 
 1. Click the &quot; **Settings**&quot; button.
 
@@ -76,9 +76,9 @@ In this case, we choose to use Markdown to edit the resume because Markdown file
 
 Finally, the resume website page is built successfully which follows the principles of Andrew Etter&#39;s book. If you want to get more information about modern technical writing principles, you can read this book which you can find under More Resources.
 
-**More Resources**
+### **More Resources**
 
-**Authors and Acknowledgment**
+## **Authors and Acknowledgment**
 
 Andrew Etter
 
@@ -88,12 +88,12 @@ Matt Cameron
 
 Nabeel Saeed
 
-**FAQs**
+## **FAQs**
 
-**1. Why is Markdown better than a word processor?**
+### **1. Why is Markdown better than a word processor?**
 
 Markdown is a syntax language designed to read and write structured text easily, which is free. Markdown is easy to work with others. The changes on the Markdown file can be merged together on version control such as GitHub. The most important reason is that the writer can edit Markdown files on any platform with the editor. It will not mess up the formatting of the text file. But the Word document will break in sometimes. Therefore, Markdown is better than a word processor.
 
-**2. Why is my resume not showing up?**
+### **2. Why is my resume not showing up?**
 
 If your resume not showing up and you followed all the instructions which are discussed on the top, you need to wait several minutes because GitHub need time to refresh the content in sometimes. Then, you can refresh the web page and check it again. If it still not work, you may connect to GitHub sever community or go to GitHub help page for more information.
