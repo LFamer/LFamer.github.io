@@ -77,6 +77,9 @@ In this case, we choose to use Markdown to edit the resume because Markdown file
 Finally, the resume website page is built successfully which follows the principles of Andrew Etter&#39;s book. If you want to get more information about modern technical writing principles, you can read this book which you can find under [More Resources](#More_Resources).
 
 ### **More Resources**
+- [Markdown tutorial](https://www.markdowntutorial.com/)
+- [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- [Jekyll tutorial](https://jekyllrb.com/tutorials/home/)
 
 ## **Authors and Acknowledgment**
 
