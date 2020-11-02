@@ -1,4 +1,4 @@
-## **How to Host and Format an Online Resume (and learn some fundamentals of Tech Comm along the way)**
+# **How to Host and Format an Online Resume (and learn some fundamentals of Tech Comm along the way)**
 
 **Purpose**
 
