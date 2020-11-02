@@ -4,7 +4,7 @@
 
 This README will describe the instructions of host an excellent resume on GitHub Pages. During the processes, the Markdown, Jekyll and GitHub are needed, which are free. At the same time, this README will also relate the instructions of host a resume with the concept of Modern Technical Writing, which the author is Andrew Etter. This README wants to help you get the skill of hosting an excellent resume and learn knowledge about documentation.
 
-##**Prerequisites**
+## **Prerequisites**
 
 This should include a resume formatted in Markdown. You also need a GitHub account for hosting your online resume.
 
