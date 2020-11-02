@@ -44,6 +44,8 @@ We choose to host a static website for the resume because it is simple, portabil
 
 In this case, we choose to use the default theme (Slate) because it is an example for showing instructions. However, it is not enough for a wonderful static website. If you want to create a successful online resume, you need to spend time choosing colors, typefaces, font sizes, page width, and spacing. You can hire a designer if you are not good at it.
 
+You can find the Jekyll tutorial under [More Resources](More_Resources).
+
 ### **Setting up your Resume**
 
 1. Click the &quot; **main**&quot; button and choose the branch which name is &quot; **gh-page**&quot;.
