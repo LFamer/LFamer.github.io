@@ -41,6 +41,7 @@ Wherever you decide to store your files, you need to build a README.md at the ro
 5. Scroll down and click &quot;**Commit changes**&quot; button.
 
 6. Click the repository name which is on the top and left on the web page for getting back the main page.
+
 ![Setting up Jekyll Theme](/GIF/Setting_Up_Jekyll_Theme.gif "Setting up Jekyll Theme")
 
 We choose to host a static website for the resume because it is simple, portability, and security. The second reason is that we do not need the database and server-side application dependencies. You will choose to use a generator (e.g. Jekyll), because it is complex if you create the website manually.
@@ -64,6 +65,7 @@ You can find the Jekyll tutorial under [More Resources](More_Resources).
 6. Scroll down and Click &quot;**Commit changes**&quot; for saving the change.
 
 7. Click the repository name which is on the top and left on the web page for getting back the main page.
+
 ![Setting up your Resume](/GIF/Setting_up_your_Resume.gif "Setting up your Resume")
 
 The purpose of modern technical writing is that everyone is a contributor. Writing XML by hand is difficult, and this conflicts with the purpose of modern technical writing because it limits people&#39;s ability to contribute. Therefore, we choose to use lightweight markup (e.g. Markdown), which is easy for learning and free.
@@ -79,6 +81,7 @@ In this case, we choose to use Markdown to edit the resume because Markdown file
 3. Find the website link under the &quot;**GitHub Pages**&quot; and click it. The website format is like [http://Your_Name.github.io/](http://Your_Name.github.io/)
 
 4. View your online resume online page.
+
 ![View the Resume Web Page](/GIF/View_the_Resume_Web_Page.gif "View the Resume Web Page")
 
 Finally, the resume website page is built successfully which follows the principles of Andrew Etter&#39;s book. If you want to get more information about modern technical writing principles, you can read this book which you can find under [More Resources](#More_Resources).
