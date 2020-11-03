@@ -71,7 +71,7 @@ You can find the Jekyll tutorial under [More Resources](More-Resources).
 
 The purpose of modern technical writing is that everyone is a contributor. Writing XML by hand is difficult, and this conflicts with the purpose of modern technical writing because it limits people&#39;s ability to contribute. Therefore, we choose to use lightweight markup (e.g. Markdown), which is easy for learning and free.
 
-In this case, we choose to use Markdown to edit the resume because Markdown files can be covert to HTML easily. You do not need to spend time learning XML. If you want more information about Markdown, you can check under [More Resources](#More-Resources).
+In this case, we choose to use Markdown to edit the resume because Markdown files can be covert to HTML easily. You do not need to spend time learning XML. If you want more information about Markdown, you can check under [MoreResources](#More-Resources).
 
 ### **View the Resume Web Page**
 
