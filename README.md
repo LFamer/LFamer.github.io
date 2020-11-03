@@ -11,7 +11,7 @@ This README will describe the instructions of host an excellent resume on GitHub
 
 ## **Instructions**
 
-### **Building a Repository**
+### **I. Building a Repository**
 
 1. Login into your GitHub
 
@@ -25,11 +25,11 @@ This README will describe the instructions of host an excellent resume on GitHub
 
 ![Building a Repository](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/Building_a_Repository.gif "Building a Repository")
 
-Developers prefer DVCS much more than centralized systems because the distributed version control systems (DVCS) have better performance and allow offline work. DVCS also supplies that developers work on the same file simultaneously, which makes it more convenient for them to cooperate in development. As developers prefer DVCS, it is the most crucial reason why technical writers choose to use it.
+> Developers prefer DVCS much more than centralized systems because the distributed version control systems (DVCS) have better performance and allow offline work. DVCS also supplies that developers work on the same file simultaneously, which makes it more convenient for them to cooperate in development. As developers prefer DVCS, it is the most crucial reason why technical writers choose to use it.
 
-Wherever you decide to store your files, you need to build a README.md at the root branch (e.g. main) in your repository. This file&#39;s purposes are providing a quick summary of the product, describing instructions on how to run the projection, and instructions on how to contribute.
+> Wherever you decide to store your files, you need to build a README.md at the root branch (e.g. main) in your repository. This file&#39;s purposes are providing a quick summary of the product, describing instructions on how to run the projection, and instructions on how to contribute.
 
-### **Setting up Jekyll Theme**
+### **II. Setting up Jekyll Theme**
 
 1. Click the &quot;**Settings**&quot; button which is on the top of the web page.
 
@@ -45,13 +45,13 @@ Wherever you decide to store your files, you need to build a README.md at the ro
 
 ![Setting up Jekyll Theme](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/Setting_Up_Jekyll_Theme.gif "Setting up Jekyll Theme")
 
-We choose to host a static website for the resume because it is simple, portability, and security. The second reason is that we do not need the database and server-side application dependencies. You will choose to use a generator (e.g. Jekyll), because it is complex if you create the website manually.
+> We choose to host a static website for the resume because it is simple, portability, and security. The second reason is that we do not need the database and server-side application dependencies. You will choose to use a generator (e.g. Jekyll), because it is complex if you create the website manually.
 
-In this case, we choose to use the default theme (Slate) because it is an example for showing instructions. However, it is not enough for a wonderful static website. If you want to create a successful online resume, you need to spend time choosing colors, typefaces, font sizes, page width, and spacing. You can hire a designer if you are not good at it.
+> In this case, we choose to use the default theme (Slate) because it is an example for showing instructions. However, it is not enough for a wonderful static website. If you want to create a successful online resume, you need to spend time choosing colors, typefaces, font sizes, page width, and spacing. You can hire a designer if you are not good at it.
 
-You can find the Jekyll tutorial under [More Resources](#More-Resources).
+> You can find the Jekyll tutorial under [More Resources](#More-Resources).
 
-### **Setting up your Resume**
+### **III. Setting up your Resume**
 
 1. Click the &quot;**main**&quot; button and choose the branch which name is &quot;**gh-page**&quot;.
 
@@ -69,11 +69,11 @@ You can find the Jekyll tutorial under [More Resources](#More-Resources).
 
 ![Setting up your Resume](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/Setting_up_your_Resume.gif "Setting up your Resume")
 
-The purpose of modern technical writing is that everyone is a contributor. Writing XML by hand is difficult, and this conflicts with the purpose of modern technical writing because it limits people&#39;s ability to contribute. Therefore, we choose to use lightweight markup (e.g. Markdown), which is easy for learning and free.
+> The purpose of modern technical writing is that everyone is a contributor. Writing XML by hand is difficult, and this conflicts with the purpose of modern technical writing because it limits people&#39;s ability to contribute. Therefore, we choose to use lightweight markup (e.g. Markdown), which is easy for learning and free.
 
-In this case, we choose to use Markdown to edit the resume because Markdown files can be covert to HTML easily. You do not need to spend time learning XML. If you want more information about Markdown, you can check under [More Resources](#More-Resources).
+> In this case, we choose to use Markdown to edit the resume because Markdown files can be covert to HTML easily. You do not need to spend time learning XML. If you want more information about Markdown, you can check under [More Resources](#More-Resources).
 
-### **View the Resume Web Page**
+### **IV. View the Resume Web Page**
 
 1. Click the &quot;**Settings**&quot; button.
 
@@ -85,7 +85,7 @@ In this case, we choose to use Markdown to edit the resume because Markdown file
 
 ![View the Resume Web Page](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/View_the_Resume_Web_Page.gif "View the Resume Web Page")
 
-Finally, the resume website page is built successfully which follows the principles of Andrew Etter&#39;s book. If you want to get more information about modern technical writing principles, you can read this book which you can find under [More Resources](#More-Resources).
+> Finally, the resume website page is built successfully which follows the principles of Andrew Etter&#39;s book. If you want to get more information about modern technical writing principles, you can read this book which you can find under [More Resources](#More-Resources).
 
 ### **More Resources**
 - [Markdown tutorial](https://www.markdowntutorial.com/)
