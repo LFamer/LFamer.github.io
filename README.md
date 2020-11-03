@@ -23,7 +23,7 @@ This README will describe the instructions of host an excellent resume on GitHub
 
 5. Click &quot;**Create repository**&quot;, then you will get into your repository page.
 
-![Building a Repository](/GIF/Building_a_Repository.gif "Building a Repository")
+![Building a Repository](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/Building_a_Repository.gif "Building a Repository")
 
 Developers prefer DVCS much more than centralized systems because the distributed version control systems (DVCS) have better performance and allow offline work. DVCS also supplies that developers work on the same file simultaneously, which makes it more convenient for them to cooperate in development. As developers prefer DVCS, it is the most crucial reason why technical writers choose to use it.
 
@@ -43,7 +43,7 @@ Wherever you decide to store your files, you need to build a README.md at the ro
 
 6. Click the repository name which is on the top and left on the web page for getting back the main page.
 
-![Setting up Jekyll Theme](/GIF/Setting_Up_Jekyll_Theme.gif "Setting up Jekyll Theme")
+![Setting up Jekyll Theme](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/Setting_Up_Jekyll_Theme.gif "Setting up Jekyll Theme")
 
 We choose to host a static website for the resume because it is simple, portability, and security. The second reason is that we do not need the database and server-side application dependencies. You will choose to use a generator (e.g. Jekyll), because it is complex if you create the website manually.
 
@@ -67,7 +67,7 @@ You can find the Jekyll tutorial under [More Resources](More_Resources).
 
 7. Click the repository name which is on the top and left on the web page for getting back the main page.
 
-![Setting up your Resume](/GIF/Setting_up_your_Resume.gif "Setting up your Resume")
+![Setting up your Resume](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/Setting_up_your_Resume.gif "Setting up your Resume")
 
 The purpose of modern technical writing is that everyone is a contributor. Writing XML by hand is difficult, and this conflicts with the purpose of modern technical writing because it limits people&#39;s ability to contribute. Therefore, we choose to use lightweight markup (e.g. Markdown), which is easy for learning and free.
 
@@ -83,7 +83,7 @@ In this case, we choose to use Markdown to edit the resume because Markdown file
 
 4. View your online resume online page.
 
-![View the Resume Web Page](/GIF/View_the_Resume_Web_Page.gif "View the Resume Web Page")
+![View the Resume Web Page](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/View_the_Resume_Web_Page.gif "View the Resume Web Page")
 
 Finally, the resume website page is built successfully which follows the principles of Andrew Etter&#39;s book. If you want to get more information about modern technical writing principles, you can read this book which you can find under [More Resources](#More_Resources).
 
