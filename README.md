@@ -22,6 +22,7 @@ This README will describe the instructions of host an excellent resume on GitHub
 4. Click the box which is before the &quot;**Add a README file**&quot; for creating a README.md in your repository.
 
 5. Click &quot;**Create repository**&quot;, then you will get into your repository page.
+![Building a Repository](/GIF/Building_A_Repository.gif "Building a Repository")
 
 Developers prefer DVCS much more than centralized systems because the distributed version control systems (DVCS) have better performance and allow offline work. DVCS also supplies that developers work on the same file simultaneously, which makes it more convenient for them to cooperate in development. As developers prefer DVCS, it is the most crucial reason why technical writers choose to use it.
 
