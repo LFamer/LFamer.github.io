@@ -29,7 +29,7 @@ This README will describe the instructions of host an excellent resume on GitHub
 >
 > Wherever you decide to store your files, you need to build a README.md at the root branch (e.g. main) in your repository. This file&#39;s purposes are providing a quick summary of the product, describing instructions on how to run the projection, and instructions on how to contribute.
 
-### **II. Setting up Jekyll Theme**
+### **II. Setting Up Jekyll Theme**
 
 1. Click the &quot;**Settings**&quot; button which is on the top of the web page.
 
@@ -51,7 +51,7 @@ This README will describe the instructions of host an excellent resume on GitHub
 >
 > You can find the Jekyll tutorial under [More Resources](#More-Resources).
 
-### **III. Setting up your Resume**
+### **III. Setting Up Your Resume**
 
 1. Click the &quot;**main**&quot; button and choose the branch which name is &quot;**gh-page**&quot;.
 
