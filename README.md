@@ -6,7 +6,8 @@ This README will describe the instructions of host an excellent resume on GitHub
 
 ## **Prerequisites**
 
-This should include a resume formatted in Markdown. You also need a GitHub account for hosting your online resume.
+- This should include a resume formatted in Markdown. 
+- You also need a GitHub account for hosting your online resume.
 
 ## **Instructions**
 
@@ -14,13 +15,13 @@ This should include a resume formatted in Markdown. You also need a GitHub accou
 
 1. Login into your GitHub
 
-2. Click &quot; **New**&quot; button
+2. Click &quot; **New** &quot; button
 
-3. Click the box under &quot; **Repository name**&quot;, enter the name you want to create. The format is your\_name.github.io, e.g.: wangr317.github.io.
+3. Click the box under &quot; **Repository name** &quot;, enter the name you want to create. The format is your\_name.github.io, e.g.: wangr317.github.io.
 
-4. Click the box which is before the &quot; **Add a README file**&quot; for creating a README.md in your repository.
+4. Click the box which is before the &quot; **Add a README file** &quot; for creating a README.md in your repository.
 
-5. Click &quot; **Create repository**&quot;, then you will get into your repository page.
+5. Click &quot; **Create repository** &quot;, then you will get into your repository page.
 
 Developers prefer DVCS much more than centralized systems because the distributed version control systems (DVCS) have better performance and allow offline work. DVCS also supplies that developers work on the same file simultaneously, which makes it more convenient for them to cooperate in development. As developers prefer DVCS, it is the most crucial reason why technical writers choose to use it.
 
@@ -28,15 +29,15 @@ Wherever you decide to store your files, you need to build a README.md at the ro
 
 ### **Setting up Jekyll Theme**
 
-1. Click the &quot; **Settings**&quot; button which is on the top of the web page.
+1. Click the &quot; **Settings** &quot; button which is on the top of the web page.
 
-2. Scroll down and find the &quot; **GitHub Pages**&quot;.
+2. Scroll down and find the &quot; **GitHub Pages** &quot;.
 
-3. Click the &quot; **Choose a theme**&quot; button.
+3. Click the &quot; **Choose a theme** &quot; button.
 
-4. Choose a Jekyll flavor which you want by click, such as, Slate. Then, you click the &quot;Select theme&quot; button.
+4. Choose a Jekyll flavor which you want by click, such as, Slate. Then, you click the &quot; **Select theme** &quot; button.
 
-5. Scroll down and click &quot; **Commit changes**&quot; button.
+5. Scroll down and click &quot; **Commit changes** &quot; button.
 
 6. Click the repository name which is on the top and left on the web page for getting back the main page.
 
@@ -48,7 +49,7 @@ You can find the Jekyll tutorial under [More Resources](More_Resources).
 
 ### **Setting up your Resume**
 
-1. Click the &quot; **main**&quot; button and choose the branch which name is &quot; **gh-page**&quot;.
+1. Click the &quot; **main** &quot; button and choose the branch which name is &quot; **gh-page** &quot;.
 
 2. Click the index.md to open it.
 
@@ -56,9 +57,9 @@ You can find the Jekyll tutorial under [More Resources](More_Resources).
 
 4. Remove all the things in this file. Then, you copy and paste your resume which is written by markdown into this file.
 
-5. Click &quot; **Preview changes**&quot; for checking. If there are some format problems, you can click &quot; **Edit file**&quot; and fix them.
+5. Click &quot; **Preview changes** &quot; for checking. If there are some format problems, you can click &quot; **Edit file** &quot; and fix them.
 
-6. Scroll down and Click &quot;Commit changes&quot; for saving the change.
+6. Scroll down and Click &quot; **Commit changes** &quot; for saving the change.
 
 7. Click the repository name which is on the top and left on the web page for getting back the main page.
 
@@ -68,11 +69,11 @@ In this case, we choose to use Markdown to edit the resume because Markdown file
 
 ### **View the Resume Web Page**
 
-1. Click the &quot; **Settings**&quot; button.
+1. Click the &quot; **Settings** &quot; button.
 
-2. Scroll down and find the &quot; **GitHub Pages**&quot;
+2. Scroll down and find the &quot; **GitHub Pages** &quot;
 
-3. Find the website link under the &quot; **GitHub Pages**&quot; and click it. The website format is like [http://Your\_Name.github.io/](http://Your_Name.github.io/)
+3. Find the website link under the &quot; **GitHub Pages** &quot; and click it. The website format is like [http://Your_Name.github.io/](http://Your_Name.github.io/)
 
 4. View your online resume online page.
 
