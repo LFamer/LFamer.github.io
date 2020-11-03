@@ -49,7 +49,7 @@ We choose to host a static website for the resume because it is simple, portabil
 
 In this case, we choose to use the default theme (Slate) because it is an example for showing instructions. However, it is not enough for a wonderful static website. If you want to create a successful online resume, you need to spend time choosing colors, typefaces, font sizes, page width, and spacing. You can hire a designer if you are not good at it.
 
-You can find the Jekyll tutorial under [More Resources](More_Resources).
+You can find the Jekyll tutorial under [More Resources](More-Resources).
 
 ### **Setting up your Resume**
 
@@ -71,7 +71,7 @@ You can find the Jekyll tutorial under [More Resources](More_Resources).
 
 The purpose of modern technical writing is that everyone is a contributor. Writing XML by hand is difficult, and this conflicts with the purpose of modern technical writing because it limits people&#39;s ability to contribute. Therefore, we choose to use lightweight markup (e.g. Markdown), which is easy for learning and free.
 
-In this case, we choose to use Markdown to edit the resume because Markdown files can be covert to HTML easily. You do not need to spend time learning XML. If you want more information about Markdown, you can check under [More Resources](#More_Resources).
+In this case, we choose to use Markdown to edit the resume because Markdown files can be covert to HTML easily. You do not need to spend time learning XML. If you want more information about Markdown, you can check under [More Resources](#More-Resources).
 
 ### **View the Resume Web Page**
 
@@ -85,7 +85,7 @@ In this case, we choose to use Markdown to edit the resume because Markdown file
 
 ![View the Resume Web Page](https://github.com/LFamer/LFamer.github.io/blob/main/GIF/View_the_Resume_Web_Page.gif "View the Resume Web Page")
 
-Finally, the resume website page is built successfully which follows the principles of Andrew Etter&#39;s book. If you want to get more information about modern technical writing principles, you can read this book which you can find under [More Resources](#More_Resources).
+Finally, the resume website page is built successfully which follows the principles of Andrew Etter&#39;s book. If you want to get more information about modern technical writing principles, you can read this book which you can find under [More Resources](#More-Resources).
 
 ### **More Resources**
 - [Markdown tutorial](https://www.markdowntutorial.com/)
